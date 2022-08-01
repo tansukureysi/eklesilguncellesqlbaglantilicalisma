@@ -1,0 +1,2 @@
+# eklesilguncellesqlbaglantili
+ c#sqlbaglantisiilegirisvedatagridviewgösterim
